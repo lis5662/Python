@@ -17,3 +17,4 @@ def print_art(msg, color):
 msg = input("What would you like to print?: ")
 color = input("What color?: ")
 print_art(msg, color)
+
